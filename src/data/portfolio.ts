@@ -105,8 +105,8 @@ export const games = [
 export const experiences = [
   {
     title: "Full Stack Developer",
-    company: "GIIT",
-    location: "Abia State, Nigeria",
+    company: "GIIT Africa",
+    location: "Lagos State, Nigeria",
     period: "2026 - Present",
     description: [
       "Build and develop full-stack web applications using modern frontend and backend technologies.",
