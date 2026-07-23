@@ -193,7 +193,7 @@ const Index = () => {
                   <ul className="space-y-3">
                     <li className="flex items-center text-muted-foreground">
                       <span className="w-2 h-2 gradient-primary rounded-full mr-3" />
-                      Based in Abia State, Nigeria
+                      Based in Ikeja, Lagos State, Nigeria
                     </li>
                     <li className="flex items-center text-muted-foreground">
                       <span className="w-2 h-2 gradient-primary rounded-full mr-3" />
